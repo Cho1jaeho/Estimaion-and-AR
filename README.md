@@ -12,3 +12,5 @@ camera estimation and AR object visualization using OpenCV in python
 <p><img width="722" alt="cv4-1" src="https://github.com/Cho1jaeho/Estimaion-and-AR/assets/162866830/1355e25b-a08d-40b1-a702-490cc5a4737a">
 <img width="487" alt="cv4-2" src="https://github.com/Cho1jaeho/Estimaion-and-AR/assets/162866830/4ea8ae3e-0ec3-45cb-8821-55d1979172be"></p>
 <p>2. 이 좌표값을 pose_estimation 코드에 넣어 AR 물체를 표시하였다.</p>
+<p><img width="719" alt="cv4-3" src="https://github.com/Cho1jaeho/Estimaion-and-AR/assets/162866830/7375ec2f-f439-4af1-9d4f-882242c68784">
+<img width="720" alt="cv4-4" src="https://github.com/Cho1jaeho/Estimaion-and-AR/assets/162866830/a64d086c-6ae7-47a0-8e6c-e8edacf5824b"></p>
